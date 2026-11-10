@@ -50,9 +50,7 @@ CH30/
 │   │   └── selection.json
 │   ├── previous/               # Kết quả baseline/refined trước đó
 │   └── comparison/             # Bảng số liệu JSON/Markdown và ảnh so sánh
-├── docs/                       # Tài liệu Chapter 30 và hướng dẫn cũ
-├── output/                     # Đầu ra mới và các gói ZIP cũ; Git bỏ qua
-└── tmp/                        # File tạm và thiết lập máy; Git bỏ qua
+└── docs/                       # Tài liệu Chapter 30 và hướng dẫn cũ
 ```
 
 Các file `.fig` vẫn được giữ trên máy và được Git bỏ qua; bản PNG tương ứng có trong repo. Mã nên chạy nằm ở `matlab/`; `results/best/code/` giữ nguyên bản chụp lịch sử.

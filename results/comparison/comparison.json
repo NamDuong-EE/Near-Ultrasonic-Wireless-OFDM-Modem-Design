@@ -1,0 +1,53 @@
+{
+  "runID": "20261110_162941_128",
+  "previousSnapshotTime": "2026-11-10 01:37-01:40 Asia/Bangkok",
+  "currentSnapshotTime": "2026-11-10 16:29:47 Asia/Bangkok",
+  "metrics": [
+    {
+      "name": "Previous original RX",
+      "psnrDB": 12.338840249882956,
+      "rmse": 61.602475963702325,
+      "mae": 41.092097998619735,
+      "packetPeak": 45.25483399593903,
+      "packetScore": 0.63999999999999979,
+      "frequencyOffsetHz": -0.27265982440957259
+    },
+    {
+      "name": "Previous refined RX",
+      "psnrDB": 15.709079353857799,
+      "rmse": 41.79133192936834,
+      "mae": 27.955728088336784,
+      "packetPeak": 62.225396744416138,
+      "packetScore": 0.87999999999999934,
+      "frequencyOffsetHz": -0.30603747397640291
+    },
+    {
+      "name": "Run 20261110_162941_128",
+      "psnrDB": 16.716386594277978,
+      "rmse": 37.215242282014515,
+      "mae": 23.571152518978607,
+      "packetPeak": 62.225396744416138,
+      "packetScore": 0.87999999999999934,
+      "frequencyOffsetHz": -0.1090639297638063
+    }
+  ],
+  "recordings": [
+    {
+      "durationSeconds": 18.1521768707483,
+      "rmsAfter2Seconds": 0.014198669119443879,
+      "ofdmBandPowerDBFS": -63.484976854801545,
+      "peakFirst2Seconds": 0.999969482421875,
+      "peakAfter2Seconds": 0.0830078125
+    },
+    {
+      "durationSeconds": 18.1521768707483,
+      "rmsAfter2Seconds": 0.015778162578408465,
+      "ofdmBandPowerDBFS": -61.83203728901497,
+      "peakFirst2Seconds": 0.999969482421875,
+      "peakAfter2Seconds": 0.0916748046875
+    }
+  ],
+  "changedTransmitterParameterFields": [],
+  "reference": "Modem input: original image downsampled and normalized per channel.",
+  "caution": "Preamble score is correlation normalized by its ideal peak, not pixel accuracy."
+}

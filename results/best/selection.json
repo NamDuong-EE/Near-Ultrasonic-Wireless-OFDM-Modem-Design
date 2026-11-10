@@ -1,0 +1,20 @@
+{
+  "runID": "20261110_162941_128",
+  "savedAt": "2026-11-10 16:29:47 +0700",
+  "criterion": "Highest image PSNR among the three stored results in results/comparison/comparison.json.",
+  "metrics": {
+    "name": "Run 20261110_162941_128",
+    "psnrDB": 16.716386594277978,
+    "rmse": 37.215242282014515,
+    "mae": 23.571152518978607,
+    "packetPeak": 62.22539674441614,
+    "packetScore": 0.8799999999999993,
+    "frequencyOffsetHz": -0.1090639297638063
+  },
+  "comparisonFile": "../comparison/comparison.json",
+  "authoritativeParameters": "config/session_TX_parameters.mat",
+  "imageFile": "results/recovered_image.png",
+  "recordingFile": "recording/NUS_AOFDM_RX_debug.mat",
+  "sourceManifest": "manifest.json",
+  "note": "Stored live-session result; selection did not make a new recording. Preamble score is not pixel accuracy."
+}

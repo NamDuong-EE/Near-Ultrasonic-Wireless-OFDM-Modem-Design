@@ -1,0 +1,23 @@
+# Local outputs, upload packages and MATLAB preferences.
+/output/
+/tmp/
+
+# MATLAB autosaves, compiled cache and local project settings.
+*.asv
+*.m~
+*.mex*
+slprj/
+*.slxc
+.MATLAB/
+.SimulinkProject/
+
+# Native figures remain local; PNG previews are included in the repository.
+*.fig
+*.zip
+
+# Operating-system and editor files.
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/

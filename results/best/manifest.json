@@ -1,0 +1,43 @@
+{
+  "savedAt": "2026-11-10 16:29:47 +0700",
+  "matlabVersion": "26.2.0.3433840 (R2026b) Update 1",
+  "figureNumbers": [
+    1,
+    3,
+    4
+  ],
+  "workspaceVariables": [
+    "y",
+    "fs",
+    "fc",
+    "TX_time",
+    "RX_time",
+    "mic_id",
+    "preferred_microphone",
+    "fo_pilot",
+    "Preamble_matched",
+    "accum",
+    "ch_tbl",
+    "DemA",
+    "DemPixel",
+    "Demdata",
+    "ST",
+    "Pf_GI",
+    "GI",
+    "P",
+    "Np",
+    "Nf",
+    "Ns",
+    "N",
+    "MM",
+    "NN",
+    "KK",
+    "Preamble",
+    "DILindex",
+    "Gain"
+  ],
+  "source": "Existing figures and base workspace; no new recording or decoding.",
+  "frequencyOffsetHz": -0.1090639297638063,
+  "recordingDurationSeconds": 18.1521768707483,
+  "packetPeak": 62.225396744416138
+}

@@ -23,8 +23,7 @@ Lần chạy **`20261110_162941_128`**, lưu lúc **16:29:47 ngày 10/11/2026 (U
 - [Các thông số của lần chạy tốt nhất](results/best/manifest.json)
 - [Số liệu so sánh đầy đủ](results/comparison/comparison.json), gồm RMSE và các thông số bản ghi âm.
 
-Ảnh vẫn còn nhiễu. **Preamble score 0,88 là điểm tương quan đồng bộ đã chuẩn hóa, không phải độ chính xác pixel 88%.** PSNR/MAE được tính so với ảnh đầu vào modem sau giảm mẫu và chuẩn hóa từng kênh màu theo bộ phát, không so trực tiếp với JPEG kích thước gốc. Bộ tham số phát của các kết quả đã đối chiếu trùng nhau; bản ghi âm của lần tốt nhất khác bản thu trước.
-
+Ảnh vẫn còn nhiễu.PSNR/MAE được tính so với ảnh đầu vào modem sau giảm mẫu và chuẩn hóa từng kênh màu theo bộ phát, không so trực tiếp với JPEG kích thước gốc. Bộ tham số phát của các kết quả đã đối chiếu trùng nhau.
 ## Cấu trúc thư mục
 
 ```text
